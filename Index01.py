@@ -7,5 +7,6 @@ def main(s):
         str: answer
     """
 
+
     return s[0]
 print(main('python'))

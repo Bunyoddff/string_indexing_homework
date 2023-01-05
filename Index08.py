@@ -5,6 +5,7 @@ def main(s):
         s(str): parameter
     Returns:
         int: answer
+        
     """
     if s[0]=='*':
         return 1

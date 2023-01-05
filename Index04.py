@@ -8,4 +8,5 @@ def main(s):
     """
     s=s[0]+s[1]+s[2]
     return s
+    
 print(main('number'))
