@@ -6,6 +6,9 @@ def main(a):
     Returns:
         int: answer
     """
-    
-        return s
-print(main('32x3z'))
+    x1=a[0]
+    s=0
+    if x1>='0' and x1<='9':
+        s+=1
+        return s 
+print(main('7'))
