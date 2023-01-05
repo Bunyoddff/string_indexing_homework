@@ -6,4 +6,7 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    a=s
+    d=int(a[0])+int(a[1])+int(a[2])+int(a[3])+int(a[4])
+    return d
+print(main('12332'))
