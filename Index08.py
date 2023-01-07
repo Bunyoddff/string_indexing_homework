@@ -17,5 +17,5 @@ def main(s):
         return 4
     else:
         return False
-print(main('good'))
+print(main('go*d'))
         
