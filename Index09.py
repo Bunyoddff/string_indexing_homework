@@ -6,8 +6,9 @@ def main(s):
     Returns:
         int: answer
     """
-    if s==int(s):
+    if s==s:
         return s
     else:
         return -1
 print(main('4'))
+
