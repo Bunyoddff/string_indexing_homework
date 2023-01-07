@@ -12,6 +12,7 @@ def main(s):
     if s[1]=='*':
         return 2
     if s[2]=='*':
+        
         return 3
     if s[3]=='*':
         return 4
